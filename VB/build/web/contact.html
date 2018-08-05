@@ -1,0 +1,55 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+        <link rel="stylesheet" href="bootstrap-3.3.7/dist/css/bootstrap.css"/>
+        <link rel="stylesheet" href="css/main.css"/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <script src="jquery/dist/jquery.min.js"></script>
+        <script src="js/main.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    </head>
+    <body>
+        <div id="header"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 margin-top">
+                    <img src="images/contact-us-banner.jpg" width=100% height=270/>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-8 margin-top">
+                    <h5 class="msg">Contact Us</h5><br/>
+                    <dl class="dl-horizontal">
+                        <dt><strong>Address</strong></dt>
+                        <dd valign="top">
+                            <strong>Venus Bhatnagar Science Institute</strong>
+                            <br/>
+                            Janta Quarter, main Road, indore
+                        </dd><br/>
+                        <dt><strong>Phone No.</strong></dt>
+                        <dd>+91 9827223605</dd><br/>
+                        <dt><strong>Email</strong></dt>
+                        <dd>vbcoachingclasses.78@gmail.com</dd><br/>
+                        <dt><strong>Website</strong></dt>
+                        <dd>www.vb.com</dd><br/>
+                    </dl>
+                </div>
+                <div class="col-lg-4 margin-top" id="news"></div>
+            </div>
+        <div id="map" style="width:100%;height:400px;background:yellow"></div>
+        <script>
+function myMap() {
+var mapOptions = {
+    center: new google.maps.LatLng(22.7403965,75.87590720000003),
+    zoom: 10,
+    mapTypeId: google.maps.MapTypeId.HYBRID
+}
+var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+}
+</script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBu-916DdpKAjTmJNIgngS6HL_kDIKU0aU&callback=myMap"></script>
+        <div class="container-fluid margin-top" id="footer"></div>
+    </body>
+</html>
