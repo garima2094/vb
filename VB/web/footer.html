@@ -38,7 +38,7 @@
         background: #a4c639;
         color: white;
     }
-    #foot{
+    .foot{
         margin: 0;
         padding: 0;
         background-color:black;
@@ -47,12 +47,27 @@
         margin-bottom: 0;
         border-radius: 0;
         width:100%;
-        float: left;  
+        text-align: center;
+        padding: 5px;
+    }
+    #footer p{
+        text-align: left;
+        color: #fff;
+        font-weight: 100;
+    }
+    .widgetheading{
+        font-size: 24px;
+        color: #fff;
+        font-weight: 100;
     }
 </style>
 <div class="conatiner-fluid">
-    <div class="row header">
-        <div class="col-lg-9 col-md-12 col-sm-12 col-xs-12">
+    <div class="row">
+        <div class="col-md-4">
+            <h3 class="widgetheading">VB Science Institute</h3>
+            <p>The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires.</p>
+        </div>
+        <div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
             <a href="https://www.facebook.com/durgesh.bhatnagar.18" class="fa fa-facebook faa"></a>
             <a href="#" class="fa fa-twitter faa"></a>
             <a href="#" class="fa fa-google faa"></a>
@@ -60,12 +75,16 @@
             <a href="https://www.youtube.com/watch?v=WduNAlSdiNI&feature=youtu.be" class="fa fa-youtube faa"></a>
             <a href="#" class="fa fa-instagram faa"></a>
             <a href="#" class="fa fa-android faa"></a>
-            <span class="msg"> Venus Bhatnagar Science Institute
-                    Janta Quarter,indore</strong></span>
         </div>
-        <div class="col-lg-3 hidden-xs hidden-md hidden-sm">
-            <img src="images/edu.jpg" width="300" height="100"/>
-        </div>
-        <h5 id="foot"> All Right &copy Reserved &nbsp Venus Bhatnagar Institute </h5>
+            <div class="col-md-4">
+                <h3 class="widgetheading">Stay in touch</h3>
+                <a href="#">
+                    <p><i class="fa fa-envelope"></i> example@gmail.com</p>
+                </a>
+                <p><i class="fa fa-phone"></i> +345 578 59 45 416</p>
+                <p><i class="fa fa-home"></i> Me & Family inc | PO Box 23456 Little Lonsdale St, New York <br> Victoria 8011 USA</p>
+            </div>
     </div>
+    <h5 class="foot"> All Right &copy Reserved &nbsp Venus Bhatnagar Institute </h5>
+    <h5 class="foot">Designed By GARIMA & Co.</h5>
 </div>

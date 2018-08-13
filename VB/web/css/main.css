@@ -1,37 +1,29 @@
-/*body{
-    background: #F6DDCC;
-}*/
-.header{
-   
+body{
     background-color: #fff;
-        height : 100px;
-    
 }
-.header #logo{
-    opacity: 1;
+.header{
+    background-color: #fff;
+    height : 100px;
 }
-.navbar {
-      margin-bottom: 0;
-      border-radius: 0;
-    }
-.leftnav {
-    height: 440px;
-    border: 2px solid grey;
-    background-color : #154979;
-     color: white;
-    
-    }
-.rightnav {
-    height: 440px;
-     border: 2px solid grey;
-     background-color : #154979;
-      color: white;
-  
+.header #logo{ opacity: 1;}
+.navbar-default {height: 100px; }
+.navbar-brand > img { width: 100px;}
+.leftnav ,.rightnav {
+    height : 650px;
+    margin-bottom: 10px;
+}
+.navbar-default .navbar-collapse{
+    margin-top: 20px;
+}
+.carousel-inner > .item > img {
+    width : 100%;
+    height : 650px;
 }
 .margin{
     margin-left: 5px;
     margin-right: 5px
 }
+.margin-top-100 { margin-top: 100px;}
 .margin-top {
      margin-top: 10px;
 }
@@ -43,45 +35,37 @@
   
 }
 .msg{
- padding: 5px;
- background-color:black;
- color: white;
- border-bottom-left-radius: 20px 50%;
- border-top-right-radius: 20px 50%;
- font-weight: bold;
-text-align: center;
- 
+     padding: 5px;
+     background-color:black;
+     color: white;
+     border-bottom-left-radius: 20px 50%;
+     border-top-right-radius: 20px 50%;
+     font-weight: bold;
+     text-align: center;
 }
-marquee{
-    font-weight: bold;
-    
+marquee{ font-weight: bold;}
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width : 100%;
+    height: 650px !important;
 }
-
 p{
     font-family: cursive;
-    font-weight: bold;
     font-style: oblique;
+    font-size: 1.5em;
+    text-align: center;
     
 }
-.div-width{
-    border : 1px solid grey;
-      background-color : #154979;
-       color: white;
-    
+.size{
+    width : 100%;
+    height: 400px !important;
 }
-.relative{position:relative;}
 .absolute-text{
     position:absolute; bottom:0; font-family:"vedana";
-padding:10px 20px; width:100%; font-size: 24px; text-align:center; margin-top: 0;}
-.port-image
-{
-    width: 100%;
-}
-
-.gallery_product
-{
+    padding:10px 20px; width:100%; font-size: 24px; text-align:center; margin-top: 0;}
+.port-image {
+    width: 100%;}
+.gallery_product {
     margin-bottom: 30px;
-   
 }
 .gallery_product img{
      width: 365px;
@@ -96,4 +80,7 @@ mark {
 ul.c {list-style-type: square;}
 #footer{
     border-top : 1px solid gray; 
+}
+#footer {
+    background-color: #272727;
 }
