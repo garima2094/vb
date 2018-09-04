@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf52dcfe-efdd-4ecc-84c3-2785d13742e5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/.settings/.jsdtscope" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/.settings/org.eclipse.wst.jsdt.ui.superType.container" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/.settings/org.eclipse.wst.jsdt.ui.superType.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/Header.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/VB.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/WEB-INF/classes/.netbeans_automatic_build" beforeDir="false" afterPath="$PROJECT_DIR$/VB/web/video.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/WEB-INF/classes/.netbeans_update_resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/WEB-INF/classes/DataModel/java.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/WEB-INF/classes/controller/Register.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/WEB-INF/classes/model/DataModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/WEB-INF/lib/mysql-connector-java-5.0.8-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/WEB-INF/sun-web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/aboutUs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/.hound.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/CNAME" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/Gemfile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/Gruntfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/ISSUE_TEMPLATE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/dist/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/dist/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/dist/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/dist/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/dist/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/dist/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/dist/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/dist/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/dist/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/dist/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/dist/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/dist/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/grunt/.jshintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/grunt/bs-commonjs-generator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/grunt/bs-glyphicons-data-generator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/grunt/bs-lessdoc-parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/grunt/bs-raw-files-generator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/grunt/change-version.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/grunt/configBridge.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/grunt/npm-shrinkwrap.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/grunt/sauce_browsers.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/.jscsrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/.jshintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/affix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/popover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/scrollspy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/unit/.jshintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/unit/affix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/unit/alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/unit/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/unit/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/unit/collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/unit/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/unit/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/unit/phantom.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/unit/popover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/unit/scrollspy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/unit/tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/unit/tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/vendor/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/vendor/qunit.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/vendor/qunit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/visual/affix-with-sticky-footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/visual/affix.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/visual/alert.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/visual/button.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/visual/carousel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/visual/collapse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/visual/dropdown.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/visual/modal.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/visual/popover.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/visual/scrollspy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/visual/tab.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tests/visual/tooltip.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/js/transition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/nuget/MyGet.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/nuget/bootstrap.less.nuspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/nuget/bootstrap.nuspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/package.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/bootstrap-3.3.7/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/course.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/data5/images/c1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/data5/images/c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/data5/images/c7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/data5/images/c8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/data5/images/c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/data5/images/p3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/data5/images/p7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/data5/tooltips/c1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/data5/tooltips/c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/data5/tooltips/c7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/data5/tooltips/c8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/data5/tooltips/c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/data5/tooltips/p3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/data5/tooltips/p7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/engine5/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/engine5/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/engine5/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/engine5/style.mod.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/engine5/wowslider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/engine5/wowslider.mod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/gfv3ee6.dpf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/1_Primary_logo_on_transparent_472x63.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/5-wrinkled-paper-backgrounds.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/5_White_logo_on_black_472x63.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/Education-Quotes-59.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/aakash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/about1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/achivemnetbanner..jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/albert-einstein_053016040636.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/anup.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/bg3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/bg4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/bg5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/bg6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/bluebg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/c1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/c2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/c3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/c4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/c5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/c6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/c7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/c8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/c9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/carousel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/contact-us-banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/course.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/courses.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/cracks_texture_background_light_surface_50654_1920x1200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/db.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/dir.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/edu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/features.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/greenbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/images.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/nikita.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/p1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/p2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/p2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/p3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/p4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/p5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/p6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/p7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/photo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/registration.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/sawan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/slideshow_background_red.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/steelbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/turquoise-2065460_960_720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/vip.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/images/woodbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/AUTHORS.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/dist/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/dist/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/dist/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/dist/jquery.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/dist/jquery.slim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/dist/jquery.slim.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/dist/jquery.slim.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/external/sizzle/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/external/sizzle/dist/sizzle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/external/sizzle/dist/sizzle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/external/sizzle/dist/sizzle.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/jquery-ui-1.10.4.custom.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/ajax/jsonp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/ajax/load.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/ajax/parseXML.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/ajax/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/ajax/var/location.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/ajax/var/nonce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/ajax/var/rquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/ajax/xhr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/attributes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/attributes/attr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/attributes/classes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/attributes/prop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/attributes/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/attributes/val.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/callbacks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/core/DOMEval.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/core/access.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/core/init.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/core/nodeName.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/core/parseHTML.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/core/ready-no-deferred.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/core/ready.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/core/readyException.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/core/stripAndCollapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/core/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/core/var/rsingleTag.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/css.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/css/addGetHookIf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/css/adjustCSS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/css/curCSS.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/css/hiddenVisibleSelectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/css/showHide.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/css/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/css/var/cssExpand.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/css/var/getStyles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/css/var/isHiddenWithinTree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/css/var/rmargin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/css/var/rnumnonpx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/css/var/swap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/data/Data.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/data/var/acceptData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/data/var/dataPriv.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/data/var/dataUser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/deferred.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/deferred/exceptionHook.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/deprecated.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/dimensions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/effects.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/effects/Tween.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/effects/animatedSelector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/event.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/event/ajax.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/event/alias.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/event/focusin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/event/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/event/trigger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/exports/amd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/exports/global.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/manipulation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/manipulation/_evalUrl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/manipulation/buildFragment.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/manipulation/getAll.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/manipulation/setGlobalEval.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/manipulation/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/manipulation/var/rcheckableType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/manipulation/var/rscriptType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/manipulation/var/rtagName.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/manipulation/wrapMap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/offset.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/queue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/queue/delay.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/selector-native.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/selector-sizzle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/selector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/serialize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/traversing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/traversing/findFilter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/traversing/var/dir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/traversing/var/rneedsContext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/traversing/var/siblings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/var/ObjectFunctionString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/var/arr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/var/class2type.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/var/concat.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/var/document.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/var/documentElement.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/var/fnToString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/var/getProto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/var/hasOwn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/var/indexOf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/var/pnum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/var/push.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/var/rcssNum.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/var/rnothtmlwhite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/var/slice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/var/support.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/var/toString.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/jquery/src/wrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/news.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/photoGallary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/build/web/register.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/Header.html" beforeDir="false" afterPath="$PROJECT_DIR$/VB/web/Header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/VB.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/aboutUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/VB/web/aboutUs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/VB/web/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/VB/web/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/images/1_Primary_logo_on_transparent_472x63.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/images/5-wrinkled-paper-backgrounds.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/images/5_White_logo_on_black_472x63.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/images/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/images/albert-einstein_053016040636.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/images/bg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/images/bg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/images/bg2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/images/bg3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/images/bg4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/images/bg5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/images/bg6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/images/bluebg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/images/cracks_texture_background_light_surface_50654_1920x1200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/images/greenbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/images/images.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/images/nikita.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/images/sawan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/images/slideshow_background_red.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/images/steelbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/images/turquoise-2065460_960_720.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/images/woodbg.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/VB/web/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VB/web/notes.html" beforeDir="false" afterPath="$PROJECT_DIR$/VB/web/notes.html" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1331837521">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.5" value="3" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="9" />
+          <entry key="html" value="14" />
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="9" />
+          <entry key="HTML" value="14" />
+          <entry key="PLAIN_TEXT" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="css" value="307" />
+          <entry key="html" value="1205" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CSS" value="307" />
+          <entry key="HTML" value="1205" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VB/web/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1035">
+              <caret line="134" column="57" selection-start-line="134" selection-start-column="57" selection-end-line="134" selection-end-column="57" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VB/web/course.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VB/web/notes.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="815">
+              <caret line="73" column="7" selection-start-line="73" selection-start-column="7" selection-end-line="73" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VB/web/video.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="42" column="36" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VB/web/footer.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="485">
+              <caret line="70" column="82" selection-start-line="70" selection-start-column="82" selection-end-line="70" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VB/src/java/model/DataModel.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VB/web/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" selection-start-line="38" selection-end-line="38" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VB/web/css/animate.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/VB/web/css/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="815">
+              <caret line="85" column="30" lean-forward="true" selection-start-line="85" selection-start-column="30" selection-end-line="85" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/VB/src/java/controller/Register.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="85" column="88" selection-start-line="85" selection-start-column="86" selection-end-line="85" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>main</find>
+      <find>navbar-</find>
+      <find>navbar-63</find>
+      <find>bounceIn</find>
+      <find>456</find>
+      <find>ABOUT</find>
+      <find>findpa</find>
+      <find>animated</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>u</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/VB</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/VB/web/news.html" />
+        <option value="$PROJECT_DIR$/VB/web/MeFamily/index1.html" />
+        <option value="$PROJECT_DIR$/VB/web/photoGallary.html" />
+        <option value="$PROJECT_DIR$/VB/web/contact.html" />
+        <option value="$PROJECT_DIR$/VB/web/course.html" />
+        <option value="$PROJECT_DIR$/VB/web/register.html" />
+        <option value="$PROJECT_DIR$/VB/web/aboutUs.html" />
+        <option value="$PROJECT_DIR$/VB/web/Header.html" />
+        <option value="$PROJECT_DIR$/VB/web/notes.html" />
+        <option value="$PROJECT_DIR$/VB/web/video.html" />
+        <option value="$PROJECT_DIR$/VB/web/footer.html" />
+        <option value="$PROJECT_DIR$/VB/web/css/style.css" />
+        <option value="$PROJECT_DIR$/VB/web/index.html" />
+        <option value="$PROJECT_DIR$/VB/web/css/main.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/VB/web/bootstrap-3.3.7/package.json" />
+      <path value="$PROJECT_DIR$/VB/web/jquery/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="25" />
+    <option name="width" value="1853" />
+    <option name="height" value="1055" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="vb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vb" type="462c0819:PsiDirectoryNode" />
+              <item name="VB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vb" type="462c0819:PsiDirectoryNode" />
+              <item name="VB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vb" type="462c0819:PsiDirectoryNode" />
+              <item name="VB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vb" type="462c0819:PsiDirectoryNode" />
+              <item name="VB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vb" type="462c0819:PsiDirectoryNode" />
+              <item name="VB" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vb" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vb" type="462c0819:PsiDirectoryNode" />
+              <item name="VB" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/VB/web/css" />
+      <recent name="$PROJECT_DIR$/VB/web/MeFamily/css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="index1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/vb/VB/web/MeFamily/index1.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/vb/VB/web/index.html">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.index1.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index1.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf52dcfe-efdd-4ecc-84c3-2785d13742e5" name="Default Changelist" comment="" />
+      <created>1533535989686</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533535989686</updated>
+      <workItem from="1533535991467" duration="6185000" />
+      <workItem from="1533560942761" duration="1753000" />
+      <workItem from="1533640193449" duration="2208000" />
+      <workItem from="1533642589942" duration="4985000" />
+      <workItem from="1534154146692" duration="3489000" />
+      <workItem from="1536036545734" duration="6258000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24878000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18797815" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18797815" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/VB/web/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VB/web/MeFamily/index1.html" />
+    <entry file="file://$PROJECT_DIR$/VB/web/MeFamily/css/font-awesome.css" />
+    <entry file="file://$PROJECT_DIR$/VB/web/photoGallary.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VB/web/news.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VB/web/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VB/web/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VB/web/Header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="55" selection-start-line="23" selection-start-column="55" selection-end-line="23" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VB/web/aboutUs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="711">
+          <caret line="84" column="66" lean-forward="true" selection-start-line="84" selection-start-column="7" selection-end-line="84" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VB/web/course.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VB/web/notes.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="815">
+          <caret line="73" column="7" selection-start-line="73" selection-start-column="7" selection-end-line="73" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VB/web/video.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" column="36" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VB/web/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="485">
+          <caret line="70" column="82" selection-start-line="70" selection-start-column="82" selection-end-line="70" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VB/src/java/controller/Register.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="85" column="88" selection-start-line="85" selection-start-column="86" selection-end-line="85" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VB/src/java/model/DataModel.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VB/web/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" selection-start-line="38" selection-end-line="38" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VB/web/css/animate.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="27" column="32" lean-forward="true" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VB/web/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="134" column="57" selection-start-line="134" selection-start-column="57" selection-end-line="134" selection-end-column="57" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#1;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/VB/web/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="815">
+          <caret line="85" column="30" lean-forward="true" selection-start-line="85" selection-start-column="30" selection-end-line="85" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

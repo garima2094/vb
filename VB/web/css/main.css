@@ -4,6 +4,7 @@ body{
 .header{
     background-color: #fff;
     height : 100px;
+
 }
 .header #logo{ opacity: 1;}
 .navbar-default {height: 100px; }
@@ -79,7 +80,7 @@ mark {
 
 ul.c {list-style-type: square;}
 #footer{
-    border-top : 1px solid gray; 
+    border-top : 1px solid gray;
 }
 #footer {
     background-color: #272727;
